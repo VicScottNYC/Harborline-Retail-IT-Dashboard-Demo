@@ -85,7 +85,3 @@ INVENTORY_PATH=/path/to/other_inventory.json uvicorn app:app --reload
 
 - `validate.py` can also be run directly as a standalone check against its sample cases, with `python validate.py`.
 - The app loads and validates the inventory once, when it starts. Restart the server after changing the file.
-
-## License
-
-Add a license of your choice, or remove this section.
