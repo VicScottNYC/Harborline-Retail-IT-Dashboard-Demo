@@ -1,8 +1,6 @@
-# Harborline Retail IT Operations API (Demo)
+# Harborline Retail IT Operations API (Demo data)
 
 A FastAPI backend for a retail IT operations dashboard. It loads a device inventory file, validates the whole import before using it, derives connection, support, and health status for each device, and serves device lists with optional store filtering.
-
-> **Demo data only.** The inventory is fictional, and statuses are calculated at a fixed evaluation time. They are not live telemetry.
 
 ## Features
 
